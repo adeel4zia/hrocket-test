@@ -11,13 +11,13 @@ robotsAllow = "False"
 
 [[mainMenu]]
   name = "Home"
-  url = "/"
+  url = "/hrocket-test"
 [[mainMenu]]
   name = "About"
-  url = "/content/pages/about"
+  url = "/hrocket-test/content/pages/about"
 [[mainMenu]]
   name = "Blogs"
-  url = "/content/pages/blogs"
+  url = "/hrocket-test/content/pages/blogs"
 
 
 [params]
